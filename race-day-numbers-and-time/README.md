@@ -1,4 +1,4 @@
-Based on a JavaScript project from Codecademy.com 
+Based on a JavaScript project from http://codecademy.com 
 
 Write a program that will register runners for the race and give them instructions on race day.
 
