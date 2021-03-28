@@ -11,10 +11,6 @@ const getUserChoice = (userInput) => {
   }
 };
 
-console.log(getUserChoice('Paper'));
-
-console.log(getUserChoice('fork'));
-
 const getComputerChoice = () => {
   const randomNumber = Math.floor(Math.random() * 3);
   switch (randomNumber) {
@@ -26,10 +22,6 @@ const getComputerChoice = () => {
       return 'scissors';
   }
 };
-
-console.log(getComputerChoice());
-console.log(getComputerChoice());
-console.log(getComputerChoice());
 
 const determineWinner = (userChoice, computerChoice) => {
   if (userChoice === computerChoice) {
