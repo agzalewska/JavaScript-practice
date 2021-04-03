@@ -1,15 +1,13 @@
-This project contains Vanilla JavaScript code to power a small number guessing game.
+GUESS A NUMBER GAME
 
-Creating a generateTarget() function. This function will be called at the start of each new round in order to generate the new secret target number.
+This project uses Vanilla JavaScript code to power a small number guessing game.
 
-This function should return a random integer between 0 and 9.
+Step 1
+Input a number between 0 and 9.
 
+Step 2
+User click "Make a Guess" to submit their guess and see who won the round. 
+The guess that is closer to the target number wins.
 
-Create a compareGuesses() function. This function will be called each round to determine which guess is closest to the target number.
-
-This function:
-
-Has three parameters representing the user (human) guess, a computer guess, and the secret target number to be guessed.
-Determines which player (human or computer) wins based on which guess is closest to the target. If both players are tied, the human user should win.
-Return true if the human player wins, and false if the computer player wins.
-
+Step 3
+Click "Next Round" to play again.
