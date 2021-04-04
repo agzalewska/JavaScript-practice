@@ -1,14 +1,14 @@
 GUESS A NUMBER GAME
 
 
-This project uses Vanilla JavaScript code to power a small number guessing game.
+This project uses Vanilla JavaScript to power a small number guessing game.
 
 
 Step 1
-Input a number between 0 and 9.
+User inputs a number between 0 and 9.
 
 Step 2
-User click "Make a Guess" to submit their guess and see who won the round. 
+User clicks "Make a Guess" to submit their guess and see who won the round. 
 The guess that is closer to the target number wins.
 
 Step 3
