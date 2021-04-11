@@ -2,6 +2,7 @@ Small JavaScript practice project from the CodeCademy webite: https://www.codeca
 
 
 Secret Message
-Using array methods, transform an array of strings into a secret message:
+
+Using various array methods, transform an array of strings into a secret message:
 
 Programming is not about what you know, it is about what you can figure out. -2015, Chris Pine, Learn to Program
