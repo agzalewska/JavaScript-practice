@@ -4,7 +4,7 @@ Simple music player built with Vanilla JavaScript to play music stored in the "m
 
 ## Project Specifications
 
-- Create UI for music player including spinning image and song detail popup
+- Creating UI for music player including spinning image and song detail popup
 - Add play and pause functionality
 - Switch songs
 - Progress bar
