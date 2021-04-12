@@ -1,6 +1,6 @@
 ## Music Player
 
-Simple music player built with Vanilla  to play music stored in the "music folder" using the HTML5 audio API
+Simple music player built with Vanilla JavaScript to play music stored in the "music folder" using the HTML5 audio API
 
 ## Project Specifications
 
